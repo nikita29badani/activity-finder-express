@@ -13,3 +13,28 @@ This project was created purely for practice purposes to understand backend conc
 - Display activity details dynamically using EJS
 - Error handling when no activity is found
 - Server-side rendering using Express.js
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- Axios
+- EJS
+- HTML
+- CSS
+
+## API Used
+
+Bored API:
+https://bored-api.appbrewery.com/
+
+---
+
+## How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/nikita29badani/activity-finder-express.git
+
+
+2. Go to project folder
